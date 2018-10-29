@@ -1,0 +1,15 @@
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\bin\Release\BoopieBot.exe.config
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\bin\Release\BoopieBot.exe
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\bin\Release\BoopieBot.pdb
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\bin\Release\BoopieBot.xml
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\Interop.VSTOEE100.dll
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.vbproj.ResolveComReference.cache
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.BoopieBotMainMenu.resources
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.Form1.resources
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.Frm_ChangePreferences.resources
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.Resources.resources
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.vbproj.GenerateResource.Cache
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.exe
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.xml
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Release\BoopieBot.pdb

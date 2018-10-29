@@ -1,0 +1,32 @@
+E:\BoopieBot\BoopieBot\bin\Debug\BoopieBot.exe.config
+E:\BoopieBot\BoopieBot\bin\Debug\BoopieBot.exe
+E:\BoopieBot\BoopieBot\bin\Debug\BoopieBot.pdb
+E:\BoopieBot\BoopieBot\bin\Debug\BoopieBot.xml
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.vbprojAssemblyReference.cache
+E:\BoopieBot\BoopieBot\obj\Debug\Interop.VSTOEE100.dll
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.vbproj.ResolveComReference.cache
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.BoopieBotMainMenu.resources
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.Form1.resources
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.Frm_ChangePreferences.resources
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.Resources.resources
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.vbproj.GenerateResource.cache
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.vbproj.CoreCompileInputs.cache
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.exe
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.xml
+E:\BoopieBot\BoopieBot\obj\Debug\BoopieBot.pdb
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\bin\Debug\BoopieBot.exe.config
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\bin\Debug\BoopieBot.exe
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\bin\Debug\BoopieBot.pdb
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\bin\Debug\BoopieBot.xml
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.vbproj.ResolveComReference.cache
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.BoopieBotMainMenu.resources
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.Form1.resources
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.Frm_ChangePreferences.resources
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.Resources.resources
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.vbproj.GenerateResource.cache
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.exe
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.xml
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.pdb
+C:\Users\Daniel Langridge\OneDrive - University of Leeds\Personal Projects\BoopieBot\Project Files\BoopieBot\obj\Debug\BoopieBot.vbprojResolveAssemblyReference.cache

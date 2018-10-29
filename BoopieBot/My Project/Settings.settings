@@ -1,0 +1,51 @@
+﻿﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="TwitchUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TwitchOAuth" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TwitchChannel" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TwitchRemember" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BotName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TwitchBot</Value>
+    </Setting>
+    <Setting Name="RouletteOdds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="RouletteMulitplier" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="RLRankOnes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+	<Setting Name="RLRankTwos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+	<Setting Name="RLRankThrees" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+	<Setting Name="RLRankSoloThrees" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Discord" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="CommandPrefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="BoopieDelay" Type="System.Integer" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="BoopiePayout" Type="System.Integer" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
